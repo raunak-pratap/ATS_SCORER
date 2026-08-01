@@ -576,3 +576,17 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2026-08-01 13:00:38,234 - INFO - Groq parsed experience count: 1
 2026-08-01 13:00:40,174 - ERROR - Failed to save analysis to Supabase: Client error '401 Unauthorized' for url 'https://izgdvphlpexnpvrzeiop.supabase.co/rest/v1/analyses'
 For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
+2026-08-01 13:50:45,598 - INFO - shutting down the api!!
+2026-08-01 13:50:49,246 - INFO - Starting ATS Resume Analyzer API...
+2026-08-01 13:50:49,246 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-08-01 13:50:51,367 - INFO - Loaded en_core_web_md
+2026-08-01 13:50:51,367 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-08-01 13:51:01,350 - INFO - Loaded all-MiniLM-L6-v2
+2026-08-01 13:51:01,350 - INFO - All models loaded. API is ready to serve requests.
+2026-08-01 13:55:07,988 - INFO - shutting down the api!!
+2026-08-01 13:55:08,364 - INFO - Starting ATS Resume Analyzer API...
+2026-08-01 13:55:08,365 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-08-01 13:55:09,840 - INFO - Loaded en_core_web_md
+2026-08-01 13:55:09,840 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-08-01 13:55:19,056 - INFO - Loaded all-MiniLM-L6-v2
+2026-08-01 13:55:19,056 - INFO - All models loaded. API is ready to serve requests.
